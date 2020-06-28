@@ -6,7 +6,7 @@
 
 My session at Analytics Vidhya Webinar for humans 
 
-## [Slides]()
+## [Slides](https://docs.google.com/presentation/d/1I4UhkF1ih2BbPLQSlnQpGVz813XBPWQHZPd5TkKU8UE/edit?usp=sharing)
 ## [Registration](https://datahack.analyticsvidhya.com/contest/webinar-going-beyond-your-first-machine-learning-p/)
 <img src = "https://github.com/akshaybahadur21/Analytics-Vidhya-Webinar-2020/blob/master/poster.png">
 <img src = "https://github.com/akshaybahadur21/Analytics-Vidhya-Webinar-2020/blob/master/akshay.jpeg">
