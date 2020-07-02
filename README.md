@@ -10,4 +10,4 @@ My session at Analytics Vidhya Webinar for humans
 ## [Registration](https://datahack.analyticsvidhya.com/contest/webinar-going-beyond-your-first-machine-learning-p/)
 <img src = "https://github.com/akshaybahadur21/Analytics-Vidhya-Webinar-2020/blob/master/poster.png">
 <img src = "https://github.com/akshaybahadur21/Analytics-Vidhya-Webinar-2020/blob/master/akshay.jpeg">
-<img scr = "https://github.com/akshaybahadur21/Analytics-Vidhya-Webinar-2020/blob/master/akshay_time.jpg">
+<img src = "https://github.com/akshaybahadur21/Analytics-Vidhya-Webinar-2020/blob/master/akshay_time.jpg">
